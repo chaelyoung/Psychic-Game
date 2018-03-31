@@ -1,0 +1,48 @@
+body {
+    background-image: url("../images/bg01.png");
+    font: arial, helvetica, roboto, san-serif;
+    color: white;
+    background-size: cover;
+}
+
+.wrapper {
+    margin: auto;
+    width: 50%;
+
+}
+
+#main {
+    width: 40%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+section {
+    margin-top: 25px;
+}
+
+h1 {
+    font-size: 64px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: greenyellow;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 50px;
+    color: greenyellow;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+h1, p {
+    text-align: center;
+}
+
